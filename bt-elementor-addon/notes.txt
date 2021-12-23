@@ -1,0 +1,5 @@
+public function __construct() {}
+	public function on_plugins_loaded() {}
+	public function is_compatible() {
+	public function init() {}
+	public function includes() {} 
